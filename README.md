@@ -1,5 +1,6 @@
 # Konvok
 A constructed language meant to offer methods and tools to unambiguous and precisely convey meaning, a "loglang" if you will.
+[Konvok is currently in very early stages of development and is not yet viable for anything really]
 
 The name "Konvok" is a portmanteau (blend word) of the English words "Consistent" and "Vocalization", with the letter k replacing each c. This represents the founding idea behind the language that there should exist a one-to-one correspondence between each letter and their sounds. Because of this, Konvok has an extensive set of letters with 16 vowels and 22 consonants, for a total of 38 letters.
 
